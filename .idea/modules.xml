@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class-Members/Class-Members.iml" filepath="$PROJECT_DIR$/Class-Members/Class-Members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Datatypes/Datatypes.iml" filepath="$PROJECT_DIR$/Datatypes/Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExampleTask/ExampleTask.iml" filepath="$PROJECT_DIR$/ExampleTask/ExampleTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello-World/Hello-World.iml" filepath="$PROJECT_DIR$/Hello-World/Hello-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration/Iteration.iml" filepath="$PROJECT_DIR$/Iteration/Iteration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Beginner.iml" filepath="$PROJECT_DIR$/Java-Beginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
